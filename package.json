@@ -1,0 +1,9 @@
+{
+  "name": "just-noop",
+  "version": "0.0.1",
+  "description": "Just noop",
+  "main": "index.js",
+  "repository": "https://github.com/dimitarnestorov/just-noop",
+  "author": "Dimitar Nestorov <opensource@dimitarnestorov.com>",
+  "license": "WTFPL"
+}
